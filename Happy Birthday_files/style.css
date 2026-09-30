@@ -116,3 +116,11 @@ img {
     font-size: 25px;
     color: #C4515C;
 }
+.from-briton {
+    text-align: center;
+    margin-top: 25px;
+    padding-bottom: 20px;
+    font-size: 17px;
+    font-style: italic;
+    opacity: 0.75;
+}
